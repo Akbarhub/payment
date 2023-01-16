@@ -1,7 +1,7 @@
 package card
 
 import (
-	"git/pkg/bank/types"
+	"payment/pkg/bank/types"
 )
 
 
